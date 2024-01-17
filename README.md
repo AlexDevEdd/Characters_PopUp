@@ -1,4 +1,4 @@
-## :notebook: Model–view–adapter
+## :notebook: Model-View-ViewModel
  
 Для тестирования выведен функционал в редактор.
-![alt text](https://github.com/AlexDevEdd/MVA_TASK/blob/Advanced/Model–view–adapter.gif)
+![alt text](https://github.com/AlexDevEdd/Characters_PopUp/blob/main/Character%20PopUp.gif)
