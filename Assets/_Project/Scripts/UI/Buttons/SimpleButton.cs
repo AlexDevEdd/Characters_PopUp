@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace _Project.Scripts.UI.Buttons
+namespace UI
 {
     public class SimpleButton : BaseButton
     {

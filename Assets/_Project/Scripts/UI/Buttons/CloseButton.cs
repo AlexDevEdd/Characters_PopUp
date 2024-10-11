@@ -1,4 +1,4 @@
-namespace _Project.Scripts.UI.Buttons
+namespace UI
 {
     public sealed class CloseButton : BaseButton
     {

@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-namespace _Project.Scripts.UI.Buttons
+namespace UI
 {
     public abstract class BaseButton : MonoBehaviour
     {
@@ -58,14 +58,7 @@ namespace _Project.Scripts.UI.Buttons
 #if UNITY_EDITOR
         private void OnValidate()
         {
-            try
-            {
-                SetState(State);
-            }
-            catch (Exception)
-            {
-                // ignored
-            }
+            SetState(State);
         }
 #endif
     }
